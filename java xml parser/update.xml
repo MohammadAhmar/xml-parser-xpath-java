@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<employee>
+        <firstName>Mr.John</firstName>
+        <lastName>Cheng</lastName>
+        <age category="SNER">62</age>
+        <sex>M</sex>
+        <department>RETIER</department>
+    </employee>

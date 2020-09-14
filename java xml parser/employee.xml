@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    
+    <employee>
+        <firstName>Sam</firstName>
+        <lastName>Cheng</lastName>
+        <age category="ADLT">30</age>
+        <sex>M</sex>
+        <department>FINANCE</department>
+    </employee>
